@@ -1,0 +1,63 @@
+body {
+	font-family: sans-serif;
+	box-sizing: border-box;
+}
+
+.form {
+	border-radius: 8px;
+	width: 300px;
+}
+
+.h2 {
+	font-size: 16px;
+	font-weight: 700;
+}
+
+.span {
+	display: block;
+	font-size: 16px;
+	font-weight: 500;
+	padding: 6px 0 4px;
+}
+
+.label-1 {
+	display: inline;
+}
+
+.input {
+	border-radius: 5px;
+	border: 1px solid #000;
+	width: 75%;
+	height: 15px;
+	padding: 5px 10px 5px;
+	font-size: 12px;
+}
+
+.textarea {
+	display: block;
+	border-radius: 8px;
+	border: 1px solid #000;
+	width: 75%;
+	resize: vertical;
+	max-height: 200px;
+	min-height: 30px;
+	padding: 5px 10px 5px;
+	font-size: 14px;
+}
+
+.checkbox {
+	cursor: pointer;
+}
+
+.checkbox-text {
+	display: inline-block;
+	padding: 15px 0px 5px;
+	font-size: 12px;
+}
+
+.button {
+	display: block;
+	cursor: pointer;
+	border-radius: 5px;
+	border: 0px solid #000;
+}
