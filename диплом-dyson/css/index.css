@@ -1,0 +1,27 @@
+@import "./normalize.css";
+
+@import "./fonts.css";
+
+@import "./globals.css";
+
+@import "./header.css";
+
+@import "./hero.css";
+
+@import "./categories.css";
+
+@import "./experts.css";
+
+@import "./advantages.css";
+
+@import "./offers.css";
+
+@import "./reviews.css";
+
+@import "./faq.css";
+
+@import "./news.css";
+
+@import "./contact.css";
+
+@import "./footer.css";

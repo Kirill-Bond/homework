@@ -1,0 +1,26 @@
+.page {
+	font-family: Namu, sans-serif;
+	font-weight: 400;
+}
+
+.page__body {
+	min-width: 375px;
+}
+
+.page__body--no-scroll {
+	overflow: hidden;
+}
+
+.container {
+	max-width: 1920px;
+	margin-inline: auto;
+	padding-inline: 24px;
+}
+
+p,
+span,
+h3,
+button {
+	font-family: OpenSans, sans-serif;
+	font-weight: 400;
+}
