@@ -6,7 +6,7 @@ if (number % 2 === 0) {
 	console.log(`${number} не чётное число`);
 }
 
-2.
+//2.
 const age = +prompt("Укажите ваш возраст");
 const discount = age < 18 ? 10 : age <= 65 ? 20 : 30;
 console.log(`Скидка: ${discount}%`);
